@@ -167,3 +167,8 @@ title: BTC DM Spam Scam
 - 687285662919295010
 - 687222649092702316
 - 687229223512965127
+
+## Credit
+
+- Server staff for handling the matter as and when it happens.
+- Anonymous user who compiled the list of effected accounts listed here.
